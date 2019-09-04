@@ -1,0 +1,6 @@
+#org.jbehave.core.embedder.StoryManager
+#Wed Sep 04 13:08:19 IST 2019
+com/bdd/airport/passengers_policy_story.story=0
+threads=1
+total=0
+threadAverage=0
